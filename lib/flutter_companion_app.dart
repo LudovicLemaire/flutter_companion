@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_compagnion/user_view.dart';
 import 'package:flutter_compagnion/active_users_listview.dart';
 import 'strings.dart' as strings;
 import 'bottom_menu.dart';
